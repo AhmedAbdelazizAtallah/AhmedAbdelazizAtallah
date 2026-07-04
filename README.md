@@ -150,22 +150,6 @@ Machine Learning model to predict customer churn using:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Ahmed01092&show_icons=true&theme=tokyonight"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed01092&layout=compact&theme=tokyonight"
-/>
-
-</p>
-
----
-
 ## 📫 Connect with Me
 
 📧 Email
