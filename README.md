@@ -238,6 +238,6 @@ github.com/AhmedAbdelazizAtallah
 
 ## 💡 Quote
 
-> "Without data, you're just another person with an opinion."
+> “Data is not just numbers; it’s the story waiting to be understood.”
 >
-> — W. Edwards Deming
+> — Eng. Ahmed Abdelaziz
